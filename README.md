@@ -22,5 +22,7 @@ The repository for the blog can be found [here](https://github.com/Sunglasses-At
 
 ## Featured Projects
 ### Among Us Mumble
-Mumble VoIP plugin and mod for the popular game "Among Us" by Innersloth to enable Proximity and Directional Voice Chat.\
-It can be found [here](https://github.com/StarGate01/AmongUs-Mumble/).
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StarGate01&repo=AmongUs-Mumble&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="DA-RNN" />
+</a>
+

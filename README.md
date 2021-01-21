@@ -21,8 +21,6 @@ The developer blog I maintain can be found [here](https://www.0x00000000.dev).\
 The repository for the blog can be found [here](https://github.com/Sunglasses-At-Night/Sunglasses-At-Night.github.io). (We accept pull requests!)
 
 ## Featured Projects
-### Among Us Mumble
+[![Among Us Mumble Card](https://github-readme-stats.vercel.app/api/pin?username=StarGate01&repo=AmongUs-Mumble&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0e1116)](https://github.com/StarGate01/AmongUs-Mumble)
 
-[![Among Us Mumble Card](https://github-readme-stats.vercel.app/api/pin/?&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&username=StarGate01&repo=AmongUs-Mumble)](https://github.com/StarGate01/AmongUs-Mumble)
-
-[![0x00000000.dev Developer Blog Card](https://github-readme-stats.vercel.app/api/pin/?&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&username=Sunglasses-At-Night&repo=Sunglasses-At-Night.github.io)](https://github.com/Sunglasses-At-Night/Sunglasses-At-Night.github.io)
+[![0x00000000.dev Developer Blog Card](https://github-readme-stats.vercel.app/api/pin?username=Sunglasses-At-Night&repo=Sunglasses-At-Night.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0e1116)](https://github.com/Sunglasses-At-Night/Sunglasses-At-Night.github.io)

@@ -1,3 +1,4 @@
+![alt text](./img/TopBanner.svg)
 ## About Me
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Profile views](https://gpvc.arturio.dev/alisenai)\
@@ -24,3 +25,5 @@ The repository for the blog can be found [here](https://github.com/Sunglasses-At
 [![Among Us Mumble Card](https://github-readme-stats.vercel.app/api/pin?username=StarGate01&repo=AmongUs-Mumble&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0e1116)](https://github.com/StarGate01/AmongUs-Mumble)
 
 [![0x00000000.dev Developer Blog Card](https://github-readme-stats.vercel.app/api/pin?username=Sunglasses-At-Night&repo=Sunglasses-At-Night.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0e1116)](https://github.com/Sunglasses-At-Night/Sunglasses-At-Night.github.io)
+
+![alt text](./img/BottomBanner.svg)

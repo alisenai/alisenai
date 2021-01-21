@@ -22,7 +22,11 @@ The repository for the blog can be found [here](https://github.com/Sunglasses-At
 
 ## Featured Projects
 ### Among Us Mumble
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StarGate01&repo=AmongUs-Mumble&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="DA-RNN" />
+
+<a href="https://github.com/StarGate01/AmongUs-Mumble">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StarGate01&repo=AmongUs-Mumble&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AmongUs-Mumble" />
 </a>
 
+<a href="https://github.com/Sunglasses-At-Night/Sunglasses-At-Night.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sunglasses-At-Night&repo=Sunglasses-At-Night.github.io&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="0x00000000.dev Developer Blog" />
+</a>

@@ -1,6 +1,5 @@
 ![alt text](./img/TopBanner.svg)
 ## About Me
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Profile views](https://gpvc.arturio.dev/alisenai)\
 Hello!\
 I'm a developer who mainly codes in C/C++, Python, and C# but also in Java, Javascript, and Bash when needed.

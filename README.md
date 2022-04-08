@@ -2,7 +2,7 @@
 ## About Me - Alisenai
 ![Profile views](https://gpvc.arturio.dev/alisenai)\
 Hello!\
-I'm a developer who mainly codes in C/C++, Python, and C# but also in Java, Javascript, and Bash when needed.
+I'm a developer who mainly codes in C/C++, rust, Python, and C# but also in Java, Javascript, and Bash when needed.
 
 ## My Sites
 ### Resume Site

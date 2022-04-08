@@ -17,6 +17,8 @@ This blog also accepts pull requests! The repository can be found [here](https:/
 ## Featured Projects
 [![Among Us Mumble Card](https://github-readme-stats.vercel.app/api/pin?username=StarGate01&repo=AmongUs-Mumble&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0e1116&cache_seconds=1800)](https://github.com/StarGate01/AmongUs-Mumble)
 
+[![Alloy Entity Component System](https://github-readme-stats.vercel.app/api/pin?username=alisenai&repo=alloy&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0e1116&cache_seconds=1800)](https://github.com/Sunglasses-At-Night/Sunglasses-At-Night.github.io)
+
 [![0x00000000.dev Developer Blog Card](https://github-readme-stats.vercel.app/api/pin?username=Sunglasses-At-Night&repo=Sunglasses-At-Night.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0e1116&cache_seconds=1800)](https://github.com/Sunglasses-At-Night/Sunglasses-At-Night.github.io)
 
 ![alt text](./img/BottomBanner.svg)
